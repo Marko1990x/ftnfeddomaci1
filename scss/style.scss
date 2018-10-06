@@ -1,4 +1,18 @@
 *{
     margin: 0%;
-        padding: 0%;
+    padding: 0%;
 }
+
+*{
+    font-family: Verdana, sans-serif;
+}
+
+*body{  /* farba pozadinu html dokumenta u body tagu*/
+    background: linear-gradient(#7b7b7b 10%, #ffffff 100%);
+    background-repeat: no-repeat;
+}
+
+*header{
+    background: #c70000;
+}
+
